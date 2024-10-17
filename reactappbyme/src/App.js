@@ -1,9 +1,10 @@
-import chai from './chai'
+import Chai from './chai'
+//always make the injection js file uppercase for better practice
 function App() {
   return (
       //also use tag methodology in react all the way using fragmentes
       <>
-      <chai />
+      <Chai />
       <h1>
         react app json
       </h1>
