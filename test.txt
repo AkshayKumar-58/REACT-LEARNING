@@ -1,6 +1,0 @@
-Is it working or not
-In vite app you have to make all files as jsx extension
-but in react app you can use js as well and jsx too
-
-while returning tags of jsx files in vite app 
-it should be uppercase then inject from file.jsx to app.jsx
